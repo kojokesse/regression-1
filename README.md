@@ -6,7 +6,7 @@ In a constantly evolving world of grocery retail where consumer inclination and 
 Being able to do predictions and meet customer demands for Favorita Corporation, a leading grocery retailer in Ecudor will not only give it a competitive advantage but also enable its sustainable growth and profitability.
 In this article we embark on an extensive survey of sales forecasting that is unique to Corporation Favorita.
 We intend to explore methodologies, objectives, tools, and strategies that can enhance Favorita to adopt to the emerging market dynamics hence make data-driven decisions that pilot its success.
-Project Structure
+## Project Structure
 Project title and introduction
 Here we give the title and a summary about the project in our introduction.
 Project planning and initiation
